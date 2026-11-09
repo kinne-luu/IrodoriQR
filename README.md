@@ -1,2 +1,1 @@
-# IrodoriQR
-Ghép ảnh vào QR để QR cuti hơn &lt;(") 
+# Ghép ảnh vào QR để QR cuti hơn &lt;(") 
